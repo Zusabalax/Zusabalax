@@ -30,7 +30,7 @@
 <body>
     <div class="container">
         <!-- Substitua "caminho/para/sua/foto.jpg" pelo caminho da sua imagem -->
-        <img src="caminho/para/sua/foto.jpg" alt="Minha Foto">
+        <img src="gui.jpeg" alt="Minha Foto">
         <!-- Substitua o texto abaixo pelo seu texto -->
         <h1>Bem-vindo ao Meu Projeto!</h1>
     </div>
