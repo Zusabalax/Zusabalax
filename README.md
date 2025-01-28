@@ -1,13 +1,11 @@
 <div align="center" style="background: linear-gradient(to right, #008000, #90EE90); color: white; padding: 20px; border-radius: 10px;">
 
-# Olá, Mundo!  Eu sou [Seu Nome]
+# Olá, Mundo!  Eu sou Guilherme de Siqueira Bianchini
 
-Sou [Sua Profissão/Ocupação] apaixonado(a) por [Seus Interesses/Paixões na área de tecnologia].  Meu foco principal é em [Sua Área de Expertise/Interesse Principal], mas estou sempre explorando e aprendendo novas tecnologias.
+Sou desenvolvedor de jogos  apaixonado por criar mundos paralelos.  Meu foco principal é em no desenvolvimento de mecanicas desafiadoras e imersivas , mas estou sempre explorando e aprendendo novas tecnologias.
 
 ## Sobre Mim
-
-[Aqui você pode adicionar um parágrafo ou dois sobre você. Fale um pouco sobre sua trajetória, seus objetivos, o que te motiva na área de tecnologia, etc. Seja um pouco mais pessoal, mas mantenha o tom profissional.]
-
+Como muito na area comessei a carreira de jogos aprendedo de forma autodidata, onde desenvolvi mues primeiros jogos  
 Exemplo:
 
 > Sou um(a) [Sua Profissão/Ocupação] com experiência em [Suas Áreas de Experiência].  Comecei a me interessar por tecnologia quando [Sua História/Motivação].  Atualmente, estou focando em aprender mais sobre [Suas Áreas de Interesse Atual] e busco oportunidades para contribuir em projetos desafiadores e inovadores. Acredito que a tecnologia tem o poder de transformar o mundo e quero fazer parte dessa transformação.
