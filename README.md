@@ -1,4 +1,6 @@
-# Olá, Mundo! 👋 Eu sou [Seu Nome]
+<div align="center" style="background: linear-gradient(to right, #008000, #90EE90); color: white; padding: 20px; border-radius: 10px;">
+
+# Olá, Mundo!  Eu sou [Seu Nome]
 
 Sou [Sua Profissão/Ocupação] apaixonado(a) por [Seus Interesses/Paixões na área de tecnologia].  Meu foco principal é em [Sua Área de Expertise/Interesse Principal], mas estou sempre explorando e aprendendo novas tecnologias.
 
@@ -56,6 +58,8 @@ Atualmente, estou estudando [Tecnologia que está aprendendo] e explorando o mun
 [Faça um convite para que as pessoas entrem em contato com você.  Seja amigável e mostre que você está aberto a novas conexões.]
 
 Sinta-se à vontade para entrar em contato comigo! Adoro conversar sobre tecnologia, projetos e novas ideias.
+
+</div>
 
 ---
 
