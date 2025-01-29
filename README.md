@@ -5,22 +5,20 @@
 Sou desenvolvedor de jogos  apaixonado por criar mundos paralelos.  Meu foco principal é em no desenvolvimento de mecanicas desafiadoras e imersivas , mas estou sempre explorando e aprendendo novas tecnologias.
 
 ## Sobre Mim
-Como muito na area comessei a carreira de jogos aprendedo de forma autodidata, onde desenvolvi mues primeiros jogos  
-Exemplo:
 
-> Sou um(a) [Sua Profissão/Ocupação] com experiência em [Suas Áreas de Experiência].  Comecei a me interessar por tecnologia quando [Sua História/Motivação].  Atualmente, estou focando em aprender mais sobre [Suas Áreas de Interesse Atual] e busco oportunidades para contribuir em projetos desafiadores e inovadores. Acredito que a tecnologia tem o poder de transformar o mundo e quero fazer parte dessa transformação.
+Sou uma pessoa muito motivada, e pesistente busco sempre melhorar minhas habilidades estando smepre por dentro das novidades do rampo , sou muito flexivel lido bem com as adversidades, pois sempre busco a exelencia em meus projetos, e recebo de bom grado todo feedbeck onde vejo uma grandeque oportunidade de me aprimorar.
+
+> Sou um Desenvolvedor de Jogos com experiência em desenvolvimento de jogos 2d 3D e VR.  Comecei a me interessar por tecnologia  como muitos na de jogos aprendedo de forma autodidata, onde desenvolvi mues primeiros jogos, tive contatocom um abibliteca em linguagem C (GameSpaceLib), algusn anos depois conheci a unity onde me encantei com as possibilidades q ela me trasia, desde entao venho me especializando no desenvolvimento de jogos, apos participar de uma game jam  aqual valia um estagio no Sesi ( Serviço Social da Indústria) para criação de jogos com foco educativo e em trenamentos para industria, onde venho aprimorando minha tecnicas  de desenvolvimento tendo contato com tecnologia como o VR, onde ganhei mais experiencia desenvolvendo em 3D e com uma tecnologia nova, desde entao venhop aprimorando meus conhecimentos sempre de olho nas novidades para estar sempre atualizaso das tecnologias do ramo.
+> Atualmente, estou focando em aprender mais sobre desenvolvimento de jogos  e busco oportunidades para contribuir em projetos desafiadores e inovadores. Acredito que a tecnologia tem o poder de transformar o mundo e quero fazer parte dessa transformação.
 
 ## O que eu faço
 
-[Descreva suas habilidades e o que você faz.  Liste as tecnologias, linguagens e ferramentas que você domina.  Se tiver projetos pessoais ou contribuições para projetos open source, mencione-os aqui.  Seja específico e mostre o que você é capaz de fazer.]
+Minhas pricipais skils, sao como unity dev  com uso de c#, porem tambem esduto outras engines como godot e Unreal e outras linguagens como msotrado abaixo .   
 
-Exemplo:
-
-* **Linguagens:** Python, JavaScript, [Outras Linguagens]
-* **Frameworks/Bibliotecas:** React, Node.js, [Outros Frameworks]
-* **Ferramentas:** Git, Docker, [Outras Ferramentas]
+* **Linguagens:** Python,C++, Gdscript.
+* **Ferramentas:** Git, Azure,Visual Studio, photoshop, Pixel Studio, Reaper e Soni Vegas, CapCut   
 * **Projetos:**
-    * [Nome do Projeto 1](link-para-o-projeto-1) - Uma breve descrição do projeto.
+    * [Ablublé](https://zusabalax.itch.io/ablubl) - Ablublé eh um jogo feito para global Game Jam de 2025 ond eo tema foi Bola.
     * [Nome do Projeto 2](link-para-o-projeto-2) - Uma breve descrição do projeto.
 * **Contribuições Open Source:**
     * [Nome do Projeto Open Source](link-para-a-contribuição) - Sua contribuição para o projeto.
