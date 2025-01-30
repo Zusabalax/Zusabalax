@@ -17,8 +17,8 @@ Atualmente, estou focado em aprender mais sobre desenvolvimento de jogos e busco
 
 Minhas principais habilidades estão no desenvolvimento com Unity e uso de C#. No entanto, também estudo outras engines, como Godot e Unreal, e outras linguagens, como mostrado abaixo:
 
-* **Linguagens:** Python,C++, Gdscript.
-* **Ferramentas:** Git, Azure,Visual Studio, photoshop, Pixel Studio, Reaper e Soni Vegas, CapCut   
+* **Linguagens:** C#,Python,C++, Gdscript.
+* **Ferramentas:** Git, Azure,Visual Studio, photoshop, Pixel Studio, Reaper, Audacity, Soni Vegas, CapCut   
 * **Projetos:**
     * [Ablublé](https://zusabalax.itch.io/ablubl) - Ablublé eh um jogo feito para global Game Jam de 2025 ond eo tema foi Bola.
     * [Nome do Projeto 2](link-para-o-projeto-2) - Uma breve descrição do projeto.
