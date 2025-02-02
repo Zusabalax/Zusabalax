@@ -14,8 +14,9 @@ Desenvolvedor de jogos apaixonado por criar experiências imersivas e inovadoras
 
 ## 🎮 Projetos em Destaque
 - **[Ablublé](https://zusabalax.itch.io/ablubl):** Jogo desenvolvido para a Global Game Jam 2025, com mecânicas inspiradas em *puzzle* e *tower defense*.  
-- **[Gameteca](https://senacjogos.itch.io/gameteca):** Jogo 2D educativo que promove a leitura através de postos de coleta de livros gratuitos.  
-- **AEgente:** Ferramenta de gamificação para cadastro, utilizando mecânicas interativas para facilitar processos como identificação de tom de pele.
+- **[Gameteca](https://senacjogos.itch.io/gameteca):** Jogo 2D educativo que promove a leitura através de postos de coleta de livros gratuitos.
+- **[Salve O Hospital](https://zusabalax.itch.io/salve-o-hospital):** Jogo educativo 2D que ajuda crianças a superarem o medo do ambiente hospitalar por meio de uma experiência lúdica e divertida.
+
 
 ## 🌐 Como me encontrar
 - **LinkedIn:** [Perfil no LinkedIn](https://www.linkedin.com/in/guilherme-de-siqueira-bianchini-8b8728121/?trk=opento_sprofile_topcard)  
