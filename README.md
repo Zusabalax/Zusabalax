@@ -15,7 +15,7 @@ Desenvolvedor de jogos apaixonado por criar experiências imersivas e inovadoras
 ## 🎮 Projetos em Destaque
 - **[Ablublé](https://zusabalax.itch.io/ablubl):** Jogo desenvolvido para a Global Game Jam 2025 , combinando mecânicas de puzzle e tower defense . O jogador controla bolhas em um laboratório, protegendo-as de drones hostis enquanto tenta alcançar um projetor no teto. Com melhorias acumulativas e uma estética minimalista (azul e branco), o jogo oferece uma experiência dinâmica e imersiva.
 - **[Gameteca](https://senacjogos.itch.io/gameteca):** Jogo 2D educativo que promove a leitura e o turismo, levando os jogadores a explorar pontos turísticos de Campo Grande. Ao encontrar gibis que narram a história local e participar de minijogos interativos, os jogadores aprendem sobre a cultura e a história da região de forma envolvente e divertida.
-- **[Salve O Hospital](https://zusabalax.itch.io/salve-o-hospital):** ogo educativo 2D que auxilia crianças a superar o medo do ambiente hospitalar através de uma experiência lúdica, interativa e divertida.
+
 
 
 ## 🌐 Como me encontrar
